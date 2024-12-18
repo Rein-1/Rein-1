@@ -1,4 +1,4 @@
-## Hi there, I am a Web Developer with extensive knowedge in Data Engineering 👋
+## Hi there, I am a Web Developer with extensive knowledge in Data Engineering 👋
 
 
 ## 🌐 Socials:
